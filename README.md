@@ -1,74 +1,54 @@
-# 🚀 Sanjib Ranjan Sah | AI/ML Engineer
+# 🚀 Sanjib Ranjan Sah | Full Stack Developer & AI Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI%20Engineer-LLM%20%7C%20RAG%20%7C%20Production%20Systems-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Scalable%20APIs%20%7C%20Distributed%20Systems-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Node.js%20%7C%20React%20%7C%20Next.js-61dafb?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/AI%20Integrated-Agents%20%7C%20RAG%20%7C%20LLMs-orange?style=for-the-badge&logo=openai" />
 </p>
 
-💡 I build **production-grade AI systems** — not just models.
+💡 I build **high-vibe, high-performance web applications** — where clean architecture meets intelligent logic.
 
-* ⚡ Reduced AI response latency by **5–10x** in RAG pipelines
-* 🧠 Built **multi-LLM systems** (OpenAI, Claude, Gemini)
-* 🚀 Deployed systems handling **real user traffic on GCP**
-
----
-
-## 🧠 What I Do
-
-✔ Design **LLM-powered applications (RAG, Agents, NLP)**
-✔ Build **scalable backend systems (Node.js, FastAPI)**
-✔ Deploy **end-to-end AI products (Frontend → Backend → Cloud)**
+* 🌐 Engineered **production-ready backends** using Node.js, Express, and Mongoose.
+* 🧠 Integrated **Agentic AI** into web workflows to automate complex reasoning tasks.
+* ⚡ Optimized **full-stack performance**, reducing latency in data-heavy pipelines by 5–10x.
 
 ---
 
-## ⚙️ Tech Stack (Real Usage)
+## 🛠️ What I Do
 
-**AI/ML:**
-LLMs · RAG · HuggingFace · PyTorch · LangChain · NER · Vector DBs (ChromaDB, Qdrant)
-
-**Backend:**
-Node.js · Express · FastAPI · REST APIs · Redis · JWT · WebSockets · Middlewares · Controllers . Jwt Tokenization
-
-**Frontend:**
-React.js · React Native · Streamlit 
-
-**Infra:**
-GCP · Docker · Firebase · Vercel · Railway · AWS
+✔ **Architect Scalable Backends** (Node.js, Express, FastAPI, Mongoose)
+✔ **Craft Fluid Frontends** (React, Next.js, Tailwind, Streamlit)
+✔ **Embed Intelligence** (LangChain, Custom Agents, Vector Search)
 
 ---
 
-## 🚀 Featured Work (Proof of Skills)
+## ⚙️ Tech Stack
 
-### 🔹 AI Document Intelligence System (RAG)
-
-* Multi-tenant document Q&A platform
-* Multi-LLM switching (GPT, Claude, Gemini)
-* **5–10x faster inference using optimized retrieval pipeline**
-* ChatGPT-style UI + real-time processing
-
----
-
-### 🔹 Real-Time AI Analytics Agent
-
-* Live sports data ingestion + prediction system
-* Modular architecture (Fetcher → Analyzer → Generator)
-* Confidence-scored AI insights in real time
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, Python, FastAPI, REST APIs, WebSockets |
+| **Databases** | MongoDB (Mongoose), PostgreSQL, Redis, Qdrant (Vector) |
+| **AI / ML** | LangChain, LangGraph, RAG, OpenAI/Gemini/Claude, HuggingFace |
+| **DevOps** | Docker, GCP, Cloud Run, Firebase, Vercel, GitHub Actions |
 
 ---
 
-### 🔹 Medical AI Prediction System
+## 🚀 Featured Projects
 
-* Built ML model with **production-grade accuracy**
-* FastAPI inference service + Docker deployment
-* Integrated NLP features using transformers
+### 🔹 SocialXray | Full Stack Personality Insights
+* Developed a **Node.js/Express backend** that parses multi-platform chat histories.
+* Integrated **OpenAI API** to generate personality profiles based on linguistic patterns.
+* Built a modular controller-service architecture for scalable data processing.
 
----
+### 🔹 Intelligent ETL Pipeline (Real Estate)
+* Built an end-to-end data platform using **Streamlit** and **Qdrant**.
+* Automated data normalization and embedding generation for real-time property analysis.
+* Handled a 12-hour high-pressure technical challenge to deploy a live dashboard.
 
-### 🔹 AI Intelligence Platform (RAG + Multi-source Data)
-
-* Unified ingestion pipeline (RSS, APIs, scraping, files)
-* Semantic search using **vector embeddings + Qdrant**
-* AI-powered insights + dashboard visualization
+### 🔹 MediSense | Full Stack Medical Analysis
+* Built a supervised ML pipeline and exposed it via a **FastAPI** service.
+* Designed a clean, responsive frontend for users to interact with medical models.
+* Achieved high-tier accuracy through rigorous feature engineering.
 
 ---
 
@@ -81,31 +61,22 @@ GCP · Docker · Firebase · Vercel · Railway · AWS
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 Currently Obsessed With
 
-* Advanced **LLM system design & optimization**
-* Building **AI agents & autonomous workflows**
-* Writing **clean, scalable backend architectures**
-
----
-
-## 🤝 Open To Opportunities
-
-I’m actively looking for:
-👉 AI/ML Engineer roles
-👉 Backend + AI hybrid roles
-👉 Startups building real AI products
-
-If you're building something exciting — let’s connect.
+* **Agentic Workflows:** Moving beyond simple prompts to autonomous AI agents using **LangGraph**.
+* **Architecture Vibe:** Writing "clean-code" that feels like art—scalable, readable, and efficient.
+* **Modern Stack:** Mastering the transition from functional scripts to robust **OOP systems**.
 
 ---
 
-## 📫 Reach Me
+## 🤝 Let's Connect
+
+I’m looking for teams where I can bridge the gap between **Web Dev** and **AI**. If you're building the future, I want to help ship it.
 
 📧 [iam007sanju@gmail.com](mailto:iam007sanju@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/sanjibRanjan
-💻 GitHub: https://github.com/sanjibRanjan
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjibRanjan)
+💻 [GitHub](https://github.com/sanjibRanjan)
 
 ---
 
-⭐ *I don’t just build models — I build systems that people actually use.*
+⭐ *I don’t just ship code; I ship experiences that work.*
